@@ -1,3 +1,3 @@
 캐글 필사
 ===
-https://kaggle-kr.tistory.com/32
+커리큘럼: https://kaggle-kr.tistory.com/32
